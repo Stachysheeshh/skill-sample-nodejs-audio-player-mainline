@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": ""
+        },
+        "interfaces": [
+          {
+            "type": "AUDIO_PLAYER"
+          }
+        ]
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "MUSIC_AND_AUDIO_ACCESSORISE",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "description": "Sample skill using the AudioPlayer interface",
+          "examplePhrases": [
+            "Alexa open audio player sample"
+          ],
+          "keywords": [],
+          "name": "Rave",
+          "summary": "Music Live radio"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
