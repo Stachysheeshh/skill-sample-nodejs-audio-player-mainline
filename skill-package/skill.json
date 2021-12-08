@@ -24,8 +24,8 @@
             "Alexa open audio player sample"
           ],
           "keywords": [],
-          "name": "Rave",
-          "summary": "Music Live radio"
+          "name": "Audioplayer sample",
+          "summary": "Sample Short Description"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
